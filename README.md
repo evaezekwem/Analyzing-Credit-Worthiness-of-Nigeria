@@ -6,10 +6,10 @@
  ###Senerio: 
  You are the secretary general of the United Nations (UN) and you just got a request from World Bank seeking that you consider if Nigeria should be granted a $1bn loan to fund the Economic Recovery Growth Plan of the Nigerian government as a way to help the country recover from economic recession. You have also been provided with the following data sets mostly from World Bank:
 
- GDP data of countries of the world (GDP.csv) – source: World Bank (www.worldbank.org)
- External debt profile of different countries (debt.csv) – source: World Bank (www.worldbank.org)
+ GDP data of countries of the world (GDP.csv) – source: World Bank (https://data.worldbank.org)
+ External debt profile of different countries (debt.csv) – source: World Bank (https://data.worldbank.org)
  Budget of data for Nigeria only(in Naira) (budget.csv) –
- Foreign Reserve (Foreign_reserve.csv) – source: World Bank (www.worldbank.org)
+ Foreign Reserve (Foreign_reserve.csv) – source: World Bank (https://data.worldbank.org)
 
  ###Questions:
  a. Based on this data recommend to the World Bank if the loan should be granted and why? 
